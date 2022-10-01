@@ -55,7 +55,7 @@ Explicit enforcement of the Code of Conduct applies to all official workshops, i
 
 ## ISSUE REPORTING 
 If you feel uncomfortable or think there may be a potential violation of the code of conduct,
-please report it immediately by sending us a mail at `developersofcit@gmail.com`
+please report it immediately by sending us a mail at `hackbeatsorg@gmail.com`
 
 ## Enforcement Guidelines
 
