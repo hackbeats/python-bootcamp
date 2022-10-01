@@ -1,69 +1,61 @@
-# Contributor Covenant Code of Conduct
+<p align="center">
+ <img src="https://avatars.githubusercontent.com/u/104215012?s=200&v=4" height="200" width="200">
+</p>
 
-## Our Pledge
+# CODE OF CONDUCT 
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+## OUR PLEDGE
+Welcome to HackBeats, a tech community aimed for encouraging and promoting public speaking,communication skills, soft skills, best practices, technical expertise and opensource contribution in the field of Computer Science via conducting workshops , hackathons and mentorship sessions in an inclusive and welcoming environment
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+## OUR MOTO 
+- Treat everyone with respect and kindness.
+- Be thoughtful in how you communicate.
+- Don't be destructive or inflammatory.
 
-## Our Standards
+## WHERE DOES THE CODE OF CONDUCT APPLY 
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+If you join in or contribute to our club ecosystem in any way, you are encouraged to follow the Code of Conduct/
 
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
-- Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-- Focusing on what is best not just for us as individuals, but for the
-  overall community
+Explicit enforcement of the Code of Conduct applies to all official workshops, in-person meetings, and events including:
 
-Examples of unacceptable behavior include:
+- The Slack & Discord channel 
+- The Events, including AMAs, Gaming Nights, Zoom study call, work shops and mentorship sessions 
+- The GitHub projects
+- Club Meetings
 
-- The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+## OUR VALUES 
 
-## Enforcement Responsibilities
+- Be friendly and welcoming
+- Be patient
+   - Remember that people have varying communication styles and that not everyone is using their native language (meaning and tone can be lost in translation).
+- Be thoughtful
+   - Productive communication requires effort. Think about how your words will be interpreted.
+   - Remember that sometimes it is best to refrain entirely from commenting.
+- Be respectful
+   - In particular, respect differences of opinion.
+- Be charitable
+   - Interpret the arguments of others in good faith, do not seek to disagree.
+   - When we do disagree, try to understand why.
+- Avoid destructive behavior:
+   - Derailing: stay on topic; if you want to talk about something else, start a new conversation.
+   - Unconstructive criticism: don't merely condemn the current state of affairs; offer—or at least solicit—suggestions as to how things may be improved.
+   - Snarking (pithy, unproductive, sniping comments)
+   - Discussing potentially offensive or sensitive issues; this all too often leads to unnecessary conflict.
+   - Microaggressions: brief and commonplace verbal, behavioral, and environmental indignities that communicate hostile, derogatory or negative slights and insults to a person or group.
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+## UNACCEPTABLE BEHAVIOUR
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+- Expressing or provoking:
+  - Insulting, demeaning, hateful, or threatening remarks;
+  - Biscrimination based on age, nationality, race, (dis)ability, gender (identity or expression), sexuality, religion, or similar personal characteristic;
+  - Bullying or systematic harassment;
+  - unwelcome sexual advances, including sexually explicit content.
+- Advertisement or recruitment for events, companies, organizations, etc - unless specifically given permission by Hack Club HQ.
+- Posting spam-like content that disrupts the environment of the community.
 
-## Scope
-
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
-
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at hackbeatsorg@gmail.com .
-All complaints will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+## ISSUE REPORTING 
+If you feel uncomfortable or think there may be a potential violation of the code of conduct,
+please report it immediately by sending us a mail at `developersofcit@gmail.com`
 
 ## Enforcement Guidelines
 
@@ -125,3 +117,7 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+## ACKNOWLEDGEMENTS
+This was adapted from [HACKCLUB CODE OF CONDUCT](https://hackclub.com/conduct/) & [MLH CODE OF CONDUCT](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
+
