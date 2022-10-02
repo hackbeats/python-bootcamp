@@ -1,6 +1,11 @@
 # python-bootcamp
  ``Learn to code python in just 6 months``
 
+
+
+
+
+![Roadmap](https://copyassignment.com/wp-content/uploads/2022/08/Python-Complete-Roadmap-for-Beginners.jpg)
 -  programming Fundamentals
 - Python Basics
 - Python Fundamentals
