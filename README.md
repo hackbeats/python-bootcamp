@@ -1,41 +1,19 @@
 # PYTHON BOOTCAMP
+
+<h1 align=center> ✨OUR VALUABLE CONTRIBUTORS✨ </h1>
 <p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-      <img src="https://github.com/karanS08/ctf-tools-for-forensics/blob/main/assets/Email%20Banners-Dark.png" width=900px>
-    </a>
+<a href="https://github.com/ hackbeats/python-bootcamp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hackbeats/python-bootcamp" />
+</a>
 </p>
 
-<h1 align="center"> Hacktoberfest 2022 </h1>
 
-###   Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge to earn a limited edition T-shirt or to plant a tree .
+ <p  align="center">
+  
+  ```Learn to code python in just 6 months```  
+</p>
 
-### STEPS TO FOLLOW IN HACKTOBERFEST 2022 
-
-## HOW TO CONTRIBUTE
-1. Fork the repositry.
-2. Clone the repositry.
-3. Create a new branch.
-4. Make the changes.
-5. Commit the changes.
-6. Push your changes .
-7. Create a pull request.
-
-## How to make a pull request
-1. Go to the pull request tab.
-2. Click on new pull request.
-3. Describe the issue.
-4. Click on submit new issue.
-
-## How to create an issue
-1. Go to the issues tab.
-2. Click on new issue.
-3. Describe the issue.
-4. Click on submit new issue.
-
-📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
-
- ``Learn to code python in just 6 months``
-
+## The topics covered in this course are:
 
 - Programming Fundamentals
 - Python Basics
@@ -66,4 +44,88 @@
 - Kaggle, Pandas, NumPy, scikit-learn
 - Email and SMS with Python
 - Working with APIs (Twitter Bot, Password Checker, Translator)
+
+
+
+<h2 align="center"> Contribution Guidelines 🏗 </h2>
+
+If you wish to contribute, we highly recommend following the guidelines mentioned below. 
+
+**1.**  Fork [this](https://github.com/hackbeats/python-bootcamp) repository.
+
+**2.**  Clone your forked copy of the project.
+
+```bash
+   git clone git@github.com:hackbeats/python-bootcamp.git
+```
+
+**3.** Navigate to the project directory.
+```
+   cd Todolist
+```
+
+**4.** Create a new branch:
+```
+   git checkout -b YourBranchName
+```
+
+**5.** Make changes in source code.
+
+**6.** Stage your changes and commit
+
+```
+   git add .
+   git commit -m "<your_commit_message>"
+```
+
+**7.** Push your local commits to the remote repo.
+
+```
+   git push origin YourBranchName
+```
+
+**8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+
+**Note:** If anyone contributes to this repository, the changes will not be reflected in your local repository. For that:
+
+**9.** Setup a reference(remote) to the original repository to get all the changes from the remote.
+```
+   git remote add upstream  git@github.com:hackbeats/python-bootcamp.git
+```
+
+**10.** Check the remotes for this repository.
+```
+   git remote -v
+```
+
+**11.** Fetching from the remote repository will bring in its branches and their respective commits.
+```
+   git fetch upstream
+```
+
+**12.** Make sure that you're on your master branch.
+```
+   git checkout main
+```
+
+**13.** Now that you have fetched the upstream repository, you can merge its changes into our local branch. This will bring that branch into sync with the upstream, without losing the local changes.
+```
+   git merge upstream/main
+```
+
+<h2 align="center"> Code of Conduct 📜</h2>
+	
+
+We welcome all kinds of positive contributions helping us to improve and grow the project.
+
+If you wish to contribute, you can work on any issues [listed here](https://github.com/hackbeats/python-bootcamp/issues) or create one on your own. After adding your code, please send us a Pull Request.
+
+> Please read [` Guidelines for Contributing`](CONTRIBUTING.md) and [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md) to understand the process for submitting pull requests to us and comply to code of conduct.
+	
+
+
+<hr>
+	
+© 2022 Sharanya Mitra and contributors\
+This project is licensed under the [**MIT license**](https://github.com/Rick-mad-lab/python-bootcamp/blob/main/LICENSE).
 
