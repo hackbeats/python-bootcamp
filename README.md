@@ -61,7 +61,7 @@ If you wish to contribute, we highly recommend following the guidelines mentione
 
 **3.** Navigate to the project directory.
 ```
-   cd Todolist
+   cd python-bootcamp
 ```
 
 **4.** Create a new branch:
