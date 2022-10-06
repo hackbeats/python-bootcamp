@@ -135,6 +135,7 @@ If you wish to contribute, you can work on any issues [listed here](https://gith
 
 <hr>
 	
-© 2022 Sharanya Mitra and contributors\
+
 This project is licensed under the [**MIT license**](https://github.com/Rick-mad-lab/python-bootcamp/blob/main/LICENSE).
 
+```© 2022 Hack Beats and contributors```
