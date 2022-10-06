@@ -1,16 +1,17 @@
 <h1 align=center> 🐍 PYTHON BOOTCAMP 🐍 </h1> 
 
-<h1 align=center> ✨OUR VALUABLE CONTRIBUTORS✨ </h1>
-<p align="center">
-<a href="https://github.com/ hackbeats/python-bootcamp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hackbeats/python-bootcamp" />
-</a>
-</p>
-
 
  <p  align="center">
-  
-  ```Learn to code python in just 6 months```  
+Learn to code python in just 6 months
+</p>
+
+<p align="center">
+<b><a href="https://discord.gg/DDAFdSRu" target="_blank">
+<font size="100"> Be a part of our Community on Discord 🚀</font>
+</a>
+</b>
+<br>
+
 </p>
 
 ## The topics covered in this course are:
@@ -45,6 +46,14 @@
 - Email and SMS with Python
 - Working with APIs (Twitter Bot, Password Checker, Translator)
 
+<h1 align=center> ✨OUR VALUABLE CONTRIBUTORS✨ </h1>
+<p align="center">
+<a href="https://github.com/ hackbeats/python-bootcamp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hackbeats/python-bootcamp" />
+</a>
+</p>
+<br>
+<br>
 
 
 <h2 align="center"> Contribution Guidelines 🏗 </h2>
