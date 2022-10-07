@@ -1,4 +1,4 @@
-#Call declaration program
+#Class declaration program
 
 ''' Python3 program to show that the variables with a value assigned in the class declaration, are class variables and variables inside methods and constructors are instance
 variables.'''
