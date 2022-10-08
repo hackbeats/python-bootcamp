@@ -1,2 +1,24 @@
 - [ ] Introduction
 - [ ] Syntax
+- [ ] Comments
+- [ ] Variables
+  - [ ] Variable Names
+  - [ ] Variables - Assign Multiple Values
+  - [ ] Output Variables
+  - [ ] Global Variables
+  - [ ] Variable Exercises
+- [ ] Data Types
+- [ ] Numbers
+- [ ] Casting
+- [ ] Strings
+  - [ ] Slicing Strings
+  - [ ] Modify Strings
+  - [ ] String Concatenation
+  - [ ] Format - Strings
+  - [ ] Escape Characters
+  - [ ] String Methods
+- [ ] Booleans
+- [ ] Operators
+- [ ] Lists
+  - [ ] Access List Items
+  - [ ] Change List Items
