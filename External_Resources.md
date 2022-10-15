@@ -13,3 +13,4 @@
 | CodeWithHarry        | [click here](https://youtu.be/gfDE2a7MKjA)                |
 | ProgrammingwithMosh  | [click here](https://youtu.be/_uQrJ0TkZlc)                |
 | Clever Programmer    | [click here](https://youtu.be/4F2m91eKmts)                |
+| Edureka              | [click here](https://youtu.be/WGJJIrtnfpk)                |
