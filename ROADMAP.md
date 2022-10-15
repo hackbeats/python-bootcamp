@@ -37,6 +37,8 @@ If you are new to the programming world then in the initial week, just begin wit
 <li><b>Numpy: </b>It is an array-processing package and provides a high-performance array object. It is widely used for scientific computing with Python and provides essential features.</li>
 <li><b>Pandas: </b> Pandas is also a very good open-source library that is used for data analysis. It provides high-level data structures (such as DataFrame) and a vast variety of tools for analysis. Using this library, data manipulation becomes a much easier task.</li>
 <li><b>Tensorflow: </b>Most popular deep learning library developed by Google. It is a computational framework used to express algorithms that involve numerous Tensor operations. </li>
+<li><b>PyQT: </b> PyQt is one of the most powerful cross-platform GUI libraries owned by Nokia. It combines Python programming and the Qt library. It can be used to design graphical user interfaces for a desktop application.</li>
+<li><b>Kivy: </b> It can be used to create desktop applications also it supports platforms like Android, iOS, Linux & Raspberry Pi.</li>
 <li><b>Scikit-Learn: </b>A machine learning library for Python, designed to work with numerical libraries such as SciPy & NumPy.</li>
 <li><b>PyTorch: </b>PyTorch is an open source machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing</li>
 
