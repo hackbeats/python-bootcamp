@@ -24,6 +24,14 @@ If you are new to the programming world then in the initial week, just begin wit
 <li><b>Objects: </b>These in OOP is a data type made by the software developer itself. It has various properties, objects, and methods.</li>
 <li><b>Lambda: </b>The function which is not well described employing the basic format of function mentioning def keyword is called lambda function.</li>
 <li><b>Inheritance: </b>It’s the procedure of sharing the functionality within different classes. Moreover, it assists to describe a class completely based on another class.</li>
+<li><b>Lists: </b>Lists are just like dynamic sized arrays, declared in other languages (vector in C++ and ArrayList in Java). Lists need not be homogeneous always which makes it the most powerful tool in Python.
+</li>
+<li><b>Tuple: </b>A Tuple is a collection of Python objects separated by commas. In some ways, a tuple is similar to a list in terms of indexing, nested objects, and repetition but a tuple is immutable, unlike lists that are mutable.
+</li>
+<li><b>Set: </b>A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements. Python’s set class represents the mathematical notion of a set.
+</li>
+<li><b>Dictionary: </b>Dictionary in Python is an ordered (since Py 3.7) [unordered (Py 3.6 & prior)] collection of data values, used to store data values like a map, which, unlike other Data Types that hold only a single value as an element, Dictionary holds key:value pair. Key-value is provided in the dictionary to make it more optimized.
+</li>
 <li><b>Reflection: </b>It’s the basic ability for a specific code to be able to find out specific attributes about various objects that may be passed as basic measures to a function.</li>
 
 </ul>
