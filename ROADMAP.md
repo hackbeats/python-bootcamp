@@ -44,4 +44,14 @@ If you are new to the programming world then in the initial week, just begin wit
 
 </ul>
 
-## Level 4 : Work In progress. 
+## Level 4 : Start developing Projects
+
+<ul>
+<li>Simple interest/ EMI calculator</li>
+  <li>Weather application</li>
+  <li>Simple Crawler</li>
+  <li>E-commerce site</li>
+  <li>A Web-based crawler</li>
+  <li>Online CV generator</li>
+  <li>Visualising and forecasting stocks using Dash</li>
+</ul>
